@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+
+/*header*/
+.content{
+    background-color: white;
+    width: 100%;
+    height: 81px;
+}
+
+.li-container{
+    margin: auto;
+    width: 1080px;
+    height: 81px;
+    list-style: none;
+}
+
+.li-container a{
+    width: 116px;
+    height: 20px;
+    margin: 30px 0;
+}
+
+.li-container img{
+    width: 116px;
+    height: 20px;
+    margin: 30px 0;
+}
+
+.li-container ol{
+    float: left;
+}
+
+.menu{
+    float: right;
+}
+
+.special-menu{
+    float: right;
+}
+#paper_submit_bg_color{
+    padding: 0 20px;
+    background: #fede22;
+    border: 1px solid #fede22;
+}
+
+a:link{
+    color:black; text-decoration: none;
+}
+
+a:visited{
+    color: black; text-decoration: none;
+}
+a:hover{
+    text-decoration: black;
+}
+
+/*section1*/
+.module_content{
+    height: 100%;
+    position: relative;
+}
+.section1{
+    width: 100%;
+    height: 720px;
+    background-color: #fede22;
+    position: absolute;
+    top: 0;
+}
+
+.section1-background{
+    width: 1200px;
+    height: 884px;
+    background-image: url(https://www.kakaobank.com/static/images/web/renewal/main-bg2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 1;
+    margin: auto;
+}
+.section1-title-font{
+    position: absolute;
+    top: 215px;
+    width: 1200px;
+    font-weight: bold;
+    font-size: 49px;
+    margin-left: 90px;
+}
+.section1-font{
+    font-size: 17px;
+    position: absolute;
+    top: 360px;
+    left: 445px;
+    line-height: 1.8;
+}
+.section1-stores{
+    position: absolute;
+    width: 380px;
+    height: 60px;
+    top: 480px;
+    margin-left: 85px;
+}
+.section1-stores li{
+    float: left;
+    margin-left: 10px;
+}
+
+
+/*section2*/
+
+
+
+
+
+
