@@ -376,4 +376,113 @@ a:hover{
     background-color: #333b58;
 }
 
+.section7 img{
+    width: 429px;
+    height: 563px;
+    position: relative;
+    left: 745.5px;
+    top: 367px;
+}
+.section7-title-font{
+    width: 912px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 1.35;
+    margin: 0 auto;
+    position: relative;
+    bottom: 375px;
+}
 
+.section7-font{
+    width: 557px;
+    color: #fff;
+    font-weight: 200;
+    opacity: 60%;
+    position: relative;
+    margin: 0 auto;
+    bottom: 351px;
+}
+
+.section7-a{
+    float: left;
+    width: 166px;
+    height: 52px;
+    border-radius: 10px;
+    background-color: rgba(255,255,255,0.09);
+    margin-left: 6px;
+    font-size: 16px;
+    line-height: 51px;
+    text-align: center;
+    position: relative;
+    left: 600px;
+    bottom: 327px;
+}
+
+/*section8*/
+.section8{
+    height: 1175px;
+    background-color: #f9f9f9;
+}
+
+.section8-title-font{
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.35;
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+
+.section8-bar{
+    display: block;
+    width: 100px;
+    height: 2px;
+    background-color: #000;
+    margin: 50px auto 140px;
+    position: relative;
+    top: 200px;
+}
+
+.section8 img{
+    width: 1020px;
+    height: 270px;
+    position: relative;
+    left: 450px;
+    top: 300px;
+}
+
+.section8 ul{
+    width: 1020px;
+    margin: 0 auto;
+}
+
+.section8 ul li{
+    margin: 0 auto;
+    float: left;
+    width: 25%;
+    height: 210px;
+    position: relative;
+    top: 300px;
+}
+
+.section8 ul li strong{
+    display: block;
+    margin: 45px 0 17px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.section8 ul li p{
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    font-weight: 200;
+}
+
+/*foot*/
+.foot{
+    height: 140px;
+    background-color: #eee;
+}
