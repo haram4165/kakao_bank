@@ -14,6 +14,12 @@ body{
 }
 
 /*header*/
+.floating{
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+}
 .content{
     background-color: white;
     width: 100%;
@@ -97,7 +103,7 @@ a:hover{
     background-image: url(https://www.kakaobank.com/static/images/web/renewal/main-bg2.png);
     background-size: contain;
     background-repeat: no-repeat;
-    z-index: 1;
+    z-index: 2;
     margin: auto;
 }
 .section1-title-font{
